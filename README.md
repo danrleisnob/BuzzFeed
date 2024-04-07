@@ -1,6 +1,8 @@
 # ProjetoBuzzfeed
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+![image](https://github.com/danrleisnob/BuzzFeed/assets/132399000/5322cb05-8644-4aec-85de-23d2a6f8db26)
+
 
 ## Development server
 
